@@ -151,7 +151,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/jobs.teambank.de\/)"
+                 "value":"https:\/\/jobs.teambank.de"
                 }],
          "type":"tilelayer",
          "visible":true,
