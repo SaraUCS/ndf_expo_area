@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.staging.workadventu.re\/_\/global\/andreasucs.github.io\/ndf_festivalmap\/map.json#start_ndf_expoarea"
+                 "value":"https:\/\/play.workadventu.re\/@\/ucs\/ucs\/ndf_festival_zentral#start_ndf_expoarea"
                 }],
          "type":"tilelayer",
          "visible":true,
